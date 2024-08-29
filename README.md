@@ -1,3 +1,11 @@
+**TLDR:**
+
+Former physicist with a specialization in scientific computing and computer-controlled experimentation. Software/embedded/firmware/hardware engineer from 2009. Python, C, C++ and digital and analog electronics design. Loving teaching and open source.
+
+(250 characters limit often enforced)
+
+**Longer version:**
+
 Hello,
 
 I hold a degree in physics with a specialization in scientific computing and computer-controlled experimentation. Since embarking on my professional journey in 2009, I have adopted Python as my primary programming language. Additionally, C and C++ play a pivotal role in my work, especially within the domain of embedded systems, where my expertise with these languages is particularly pronounced.
