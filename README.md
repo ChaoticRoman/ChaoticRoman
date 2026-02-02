@@ -10,6 +10,6 @@ I hold a degree in physics with a specialization in scientific computing and com
 
 My professional background encompasses roles in scientific computing at the Czech Academy of Sciences, specifically within the Astrophysical Institute and the Institute of Atmospheric Physics. I have also contributed as a DevOps Engineer at Red Hat and have undertaken projects across the medical, aerospace, and industrial sectors.
 
-Currently, I am an Embedded Linux Engineer working on industrial cellular routers at Advantech Czech s.r.o.
+Currently, I am an Embedded Linux Engineer working on Mobile Mapping Camera Systems.
 
 If you would like to learn more or get in touch, please visit my homepage at [romanpavelka.cz](https://romanpavelka.cz).
